@@ -1,0 +1,5 @@
+{
+  "name": "Simple Clipboard Bridge",
+  "description": "A lightweight, privacy-focused web tool for transferring text between devices using QR codes and SMS. Runs entirely in the browser with no backend.",
+  "requestFramePermissions": []
+}
